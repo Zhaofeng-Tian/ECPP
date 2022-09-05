@@ -2,7 +2,7 @@
 Code for paper | 
 by Zhaofeng Tian | 
 [Paper Website](https://sites.google.com/view/cutedge) | 
-[video] (https://youtu.be/dT7NNUvVaT0)
+[video](https://youtu.be/dT7NNUvVaT0)
 
 
 # How to Use
