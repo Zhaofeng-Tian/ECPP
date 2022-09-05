@@ -1,7 +1,9 @@
 # "Cutting Edge Method to Cut the Edge for Robot Mowing"
 Code for paper | 
 by Zhaofeng Tian | 
-[Paper Website](https://sites.google.com/view/cutedge)
+[Paper Website](https://sites.google.com/view/cutedge) | 
+[video] (https://youtu.be/dT7NNUvVaT0)
+
 
 # How to Use
 1. Git clone or download the package to your MATLAB workspace.
