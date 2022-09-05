@@ -1,6 +1,6 @@
-# ECPP
-Code for paper "Cutting Edge Method to Cut the Edge for Robot Mowing"
-by Zhaofeng Tian
+# "Cutting Edge Method to Cut the Edge for Robot Mowing"
+Code for paper | 
+by Zhaofeng Tian | 
 [Paper Website](https://sites.google.com/view/cutedge)
 
 # How to Use
