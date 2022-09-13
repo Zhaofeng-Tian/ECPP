@@ -1,4 +1,4 @@
-# "Cutting Edge Method to Cut the Edge for Robot Mowing"
+# "Edge Coverage Path Planning for Robot Mowing"
 Code for paper | 
 by Zhaofeng Tian | 
 [Paper Website](https://sites.google.com/view/cutedge) | 
